@@ -42,7 +42,7 @@ The reporisoty has the code used for the convertion of the dataframe using Jupit
 
 3. Tableau Public Story and visualization.
 
-![TableauChallenge](https://public.tableau.com/app/profile/juan6156/viz/Challenge_Completed/ChallengeStory#1)
+[TableauChallenge](https://public.tableau.com/app/profile/juan6156/viz/Challenge_Completed/ChallengeStory#1)
 
 Regards
 
